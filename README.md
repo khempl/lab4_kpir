@@ -52,3 +52,11 @@ php artisan repo:test
 
 ## Результаты
 Скриншоты выполнения миграций и тестовой команды приложены ниже.
+
+<img width="974" height="291" alt="image" src="https://github.com/user-attachments/assets/ba1036ea-422d-43dc-809b-773638dc99be" />
+
+<img width="974" height="97" alt="image" src="https://github.com/user-attachments/assets/bb0bcfc2-9a28-4320-bd82-a4d84eb4d4ed" />
+
+<img width="555" height="177" alt="image" src="https://github.com/user-attachments/assets/dd4b3feb-04d3-41d8-8230-42cb36e1595a" />
+
+
